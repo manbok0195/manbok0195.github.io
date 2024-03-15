@@ -2,7 +2,7 @@
 title: Customize the Favicon
 author: cotes
 date: 2019-08-11 00:34:00 +0800
-categories: [GitHub Pages 블로그, Tutorial]
+categories: [Blogging, Demo]
 tags: [favicon]
 --- -->
 

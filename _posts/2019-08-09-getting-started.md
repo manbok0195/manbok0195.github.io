@@ -2,7 +2,7 @@
 title: Getting Started
 author: cotes
 date: 2019-08-09 20:55:00 +0800
-categories: [GitHub Pages 블로그, Tutorial]
+categories: [Blogging, Demo]
 tags: [getting started]
 pin: true
 img_path: "/posts/20180809"
